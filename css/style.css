@@ -52,7 +52,11 @@ p{
 .intro {
   color: #40514E;
   margin-bottom: 70px;
-  line-height: 2
+  line-height: 2;
+  width: 35%;
+  margin-left: auto;
+  margin-right: auto;
+
 }
 
 .bottom-cloud {
@@ -155,7 +159,19 @@ p{
   text-decoration: none;
 }
 .life{
-  margin-bottom: 50px;
+  margin-bottom: 20px;
   line-height: 2;
   marigin-top: 0;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.cofee{
+   width: 50%;
+   margin-left: auto;
+   margin-right: auto;
+}
+.button{
+  
+  padding-top: 30px;
 }
